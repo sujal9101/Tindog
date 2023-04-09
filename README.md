@@ -4,6 +4,6 @@ Start up landing page for a fictional application named TinDog. TinDog allows th
 https://sujal9101.github.io/Tindog/
 
 Built With:-
-HTML
-CSS
-Bootstrap
+HTML,
+CSS,
+Bootstrap.
